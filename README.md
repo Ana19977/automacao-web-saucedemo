@@ -10,7 +10,7 @@ Este projeto apresenta a automação de testes de interface (UI) para o cenário
 * **Validação de Login:** Acesso à página inicial, preenchimento dos seletores de usuário (`#user-name`) e senha (`#password`), submissão do formulário através do botão de login (`#login-button`) e verificação do carregamento da vitrine de produtos.
 
 ## Evidência de Execução
-*(Dica: Edite este arquivo no GitHub e arraste o seu vídeo ou o arquivo resultado.png exatamente aqui para que ele apareça na tela)*
+[744719be-7912-496d-97cf-9466d805dd4b (1).webm](https://github.com/user-attachments/assets/5b5d9acd-6e4a-4425-a4c4-3d30d632d022)
 
 ## Instruções de Execução
 
